@@ -1,0 +1,8 @@
+C:\Personal\Projects\ReddisMQ\ReddisMQ\bin\Debug\ReddisMQ.exe.config
+C:\Personal\Projects\ReddisMQ\ReddisMQ\bin\Debug\ReddisMQ.exe
+C:\Personal\Projects\ReddisMQ\ReddisMQ\bin\Debug\ReddisMQ.pdb
+C:\Personal\Projects\ReddisMQ\ReddisMQ\bin\Debug\StackExchange.Redis.dll
+C:\Personal\Projects\ReddisMQ\ReddisMQ\bin\Debug\StackExchange.Redis.xml
+C:\Personal\Projects\ReddisMQ\ReddisMQ\obj\Debug\ReddisMQ.csprojResolveAssemblyReference.cache
+C:\Personal\Projects\ReddisMQ\ReddisMQ\obj\Debug\ReddisMQ.exe
+C:\Personal\Projects\ReddisMQ\ReddisMQ\obj\Debug\ReddisMQ.pdb
